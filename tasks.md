@@ -26,13 +26,34 @@
 `<div class="highlight">This is a highlighted element.</div>`  
 `<div class="highlight">This is another highlighted element.</div>`  
 
+PS: воспользоваться методом перебора forEach
+
 # Задача 4      
 ### последний элемент  
 Получить коллекцию элементов с тегом "p" и изменить цвет текста у последнего элемента на красный.   
+`<p>This is the first paragraph.</p>`  
+`<p>This is the second paragraph.</p>`  
+`<p>This is the third paragraph.</p>`  
 
 
+# Задача 5        
+### хитрая форма  
+Дана форма и три label.  
+1. получить первый label.  
+2. вывести в консоль последний label.  
+3. получить второй label и изменить цвет шрифта на красный.  
 
-# Задача 1  
+`<form>`  
+ `<label for="name">Name:</label>`  
+  `<input type="text" id="name">`  
+  `<label for="email">Email:</label>`  
+  `<input type="email" id="email">`  
+  `<label for="message">Message:</label>`  
+  `<textarea id="message"></textarea>`  
+`</form>`  
+
+
+# Задача 6    
 ### Поиск элементов  
 Откройте страницу [ table.html ](https://learn.javascript.ru/task/find-elements/table.html)  в отдельном окне и используйте для этого браузерные инструменты разработчика.  
 Как найти?…  
