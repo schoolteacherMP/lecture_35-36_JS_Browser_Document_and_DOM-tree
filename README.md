@@ -16,7 +16,6 @@
 
 Для поиска чего-либо обычно удобно использовать интернет-поиск со словами «WHATWG [термин]» или «MDN [термин]», например https://google.com?q=whatwg+localstorage, https://google.com?q=mdn+localstorage.  
 
-
 # lecture_36_JS_Document_DOM-дерево
 
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_36_JS_Document_DOM-tree/blob/main/tasks.md)  
@@ -34,3 +33,4 @@
 И, напоследок, давайте упомянем ещё один метод, который проверяет наличие отношений между предком и потомком:
 
 -  elemA.contains(elemB) вернёт true, если elemB находится внутри elemA (elemB потомок elemA) или когда elemA==elemB.
+
